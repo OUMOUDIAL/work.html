@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.navmenu{
+    display:contents;
+    justify-content: center;
+    align-items: baseline;
+    background-color: rosybrown;
+    font-size: 70px;
+    font-weight: 100px;
+    justify-content:space-around;
+}
+.navmenu ul{
+display: flex;
+list-style: none;
+margin: 20px 0px;
+padding: 0px;
+}
+.Accueil-section{
+    display:block;
+    align-items: last baseline;
+    background-color:beige;
+    
+}
+.Accueil-section img{
+    display:flex;
+    width: 400px;
+    height: 400px;
+    position: sticky;
+    top: 0;
+    background-color: rgba(255, 255, 255, 255);
+    
+}
+.Accueil{
+    display: block;
+}
+.button{
+background-color:gray;
+color: white;
+padding: 10px 20px;
+font-size: 16px;
+cursor: pointer;
+}
+.Travail-accueil{
+    display:contents;
+    background-color:antiquewhite;
+    align-items: center;
+}
+
+
+    
+
+
+
+
